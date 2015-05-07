@@ -135,7 +135,7 @@ def analyze(key, trustfile, dotgraph):
     else:
         fh = sys.stdout
 
-    fh.write('digraph "Tracing results"\n'
+    fh.write('digraph "Tracing results" {\n'
              + 'node [shape=record]\n'
              + 'subgraph cluster0 {\n'
              + '    color=white\n')
