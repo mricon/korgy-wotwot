@@ -1,4 +1,4 @@
-#!/usr/bin/env python -tt
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 # Copyright (C) 2015 by The Linux Foundation and contributors
 #
